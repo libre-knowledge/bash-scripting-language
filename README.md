@@ -10,7 +10,7 @@ GNU Bash Shell 界面的腳本語言
 
 ## 解決方案
 
-* [The Common GNU Bash Shell Script Templates](<The Common GNU Bash Shell Script Templates/>)  
+* [The Common GNU Bash Shell Script Templates](<https://github.com/the-common/bash-script-templates/>)  
   Ready-to-use bash shell script templates at your fingertips!
 
 ## 參考資料
