@@ -20,6 +20,11 @@ GNU Bash Shell 界面的腳本語言
 * [Bash 101](https://github.com/bash-101/bash-101)  
   Learning Bash via code samples and small projects!
 
+### 程式庫
+
+* （開發中）[The common Bash functions](https://gitlab.com/the-common/bash-functions)  
+  A collection of commonly used Bash functions to make your scripts cleaner and more efficient.
+
 ## 參考資料
 
 * [GNU Bash manual - GNU Project - Free Software Foundation](https://www.gnu.org/software/bash/manual/)  

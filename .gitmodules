@@ -15,3 +15,7 @@
 	path = Bash 101 - Learning Bash via code samples and small projects!
 	url = https://github.com/bash-101/bash-101.git
 	ignore = dirty
+[submodule "The common Bash functions"]
+	path = The common Bash functions
+	url = https://gitlab.com/the-common/bash-functions.git
+	ignore = dirty
