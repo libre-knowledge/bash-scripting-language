@@ -22,7 +22,7 @@ GNU Bash Shell 界面的腳本語言
 
 ### 程式庫
 
-* （開發中）[The common Bash functions](https://gitlab.com/the-common/bash-functions)  
+* [The common Bash functions](https://gitlab.com/the-common/bash-functions)  
   A collection of commonly used Bash functions to make your scripts cleaner and more efficient.
 
 ## 參考資料
